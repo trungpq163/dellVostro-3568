@@ -4,6 +4,7 @@
 - Not fix wifi and Card AMD R5 M420
 - Fix microphone, you should download and install ALCPlugFix
 - So I can't fix wifi, you maybe download and install Drivers  USB Internet to use
+- File Report.htm is a all configuration my Dell Vostro 3568
 
 | Model     | Name    |
 | --------- | -------- | 
