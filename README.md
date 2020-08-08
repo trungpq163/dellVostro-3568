@@ -13,5 +13,3 @@
 | Audio | ALC256    |
 | Ram | 4GB * 2(DDR4)    |
 | Display | 1920x1080(15.6 inch)    |
-
-![](http://i.imgur.com/sAOeN19.png)
